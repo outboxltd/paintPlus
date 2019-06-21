@@ -1,0 +1,43 @@
+.main_paint {
+    border: solid;
+    position: relative;
+    /* background-color: azure; */
+
+}
+
+.color_tool {
+    border: solid blue;
+    height: 800px;
+}
+
+.paint_brush {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    color: blue;
+    border-radius: 50%;
+
+}
+
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#purple {
+    background-color: purple;
+}
+#blue {
+    background-color: rgb(11, 68, 223);
+}
+#white {
+    background-color:white;
+}
