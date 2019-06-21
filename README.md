@@ -1,1 +1,3 @@
 # paintPlus
+
+faster stronger better
